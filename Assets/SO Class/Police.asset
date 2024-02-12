@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a07b25b6f7e448a40899ee7de6be22e5, type: 3}
+  m_Name: Police
+  m_EditorClassIdentifier: 
+  <Classname>k__BackingField: Police
+  <description>k__BackingField: Has a small gun.
+  <speed>k__BackingField: 5
+  <projectile>k__BackingField: {fileID: 4165328161826689656, guid: 343646b8085eaab4a96cb5ff70ecc7e1, type: 3}
+  <lifeTime>k__BackingField: 8
+  <fireRate>k__BackingField: 3

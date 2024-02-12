@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a07b25b6f7e448a40899ee7de6be22e5, type: 3}
+  m_Name: Sniper
+  m_EditorClassIdentifier: 
+  <Classname>k__BackingField: Sniper
+  <description>k__BackingField: Has a big rifle.
+  <speed>k__BackingField: 1
+  <projectile>k__BackingField: {fileID: 1000997275812625452, guid: a93e422d822aa934ab4faaec2ea56fc4, type: 3}
+  <lifeTime>k__BackingField: 10
+  <fireRate>k__BackingField: 7
